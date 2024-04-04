@@ -1,0 +1,49 @@
+
+/* Custom styles for header */
+
+.mb-3 {font-size: 70px;
+	font-weight:bold;
+}
+.mb-2 {font-size: 30px;
+	font-weight:bold;
+}
+.mb-5{font-size: 40px;
+	font-weight:bold;
+}
+.bg-dark{background-color: black !important;}
+
+.text-hot-pink{
+	color:#d10966; /* Hot pink text color */
+	font-size: 50px;
+}
+.navbar-custom {
+    background-color: #ffc5cd  ; /* Light pink color */
+    color: #fff; /* White text color */
+}
+
+/* Custom styles for alternating sections */
+.section-light-pink {
+    background-color: #ffc5cd ; /* Light pink color */
+    color:#d10966; /* Hot pink text color */
+}
+
+.section-hot-pink {
+    background-color: #d10966; /* hot pink color */
+     color: #fff; /* White text color */
+}
+
+.img-width {
+	width: 500px;
+}
+/* Custom font for luxury look */
+body {
+    font-family: 'Playfair Display', serif; /* 'Playfair Display'  fancy luxury font */
+}
+
+
+.abril-fatface-regular {
+  font-family: "Abril Fatface", serif;
+  font-weight: 400;
+  font-size:85px;
+  font-style: normal;
+}
